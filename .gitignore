@@ -1,0 +1,3 @@
+# Ignore blender temp files
+*.blend1
+*/builds
